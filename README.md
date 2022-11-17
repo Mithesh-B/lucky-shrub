@@ -1,2 +1,2 @@
 # lucky-shrub
-1st practice website.
+My attempt on building my 1st website from scratch.
