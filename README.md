@@ -1,3 +1,3 @@
 # lucky-shrub
-My attempt on building my 1st website from scratch.
+This is my first website built from scratch using HTML and CSS.
 https://mithesh-b.github.io/lucky-shrub/
